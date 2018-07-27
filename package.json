@@ -101,5 +101,6 @@
   },
   "dependencies": {
     "start-server-and-test": "^1.4.1"
-  }
+  },
+  "typings": "./index.d.ts"
 }
