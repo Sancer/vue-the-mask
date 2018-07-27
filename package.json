@@ -23,7 +23,8 @@
   "files": [
     "dist/",
     "src/*.js",
-    "src/*.vue"
+    "src/*.vue",
+    "*.d.ts"
   ],
   "keywords": [
     "vue",
